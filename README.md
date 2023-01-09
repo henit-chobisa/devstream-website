@@ -2,6 +2,19 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+## 💻 Start contributing from any browser or Chromebook
+
+  Start developing and make changes to the code via a single click without any prior setup for free **Anytime-Anywhere**!
+
+  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devstream-io/website)
+
+  Some *Recommendations* while using **Gitpod**:
+
+  - Download the [gitpod browser extension](https://www.gitpod.io/docs/configure/user-settings/browser-extension) to start working on any branch,issue or PR via a single click in under a minute!
+  - To enjoy *BLAZINGLY FAST* startup times while developing on your forked branches, consider [enabling prebuilds by installing Gitpod's GitHub App](https://www.gitpod.io/docs/configure/projects/prebuilds/#configuring-prebuilds-manually)
+
+  ---
+
 ### Installation
 
 **Requirements**
